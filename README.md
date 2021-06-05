@@ -26,64 +26,64 @@ After submitting the job you need to reset VTAM with:
 
 **CORPORAT.JCL**
 
-[CORPORAT](images/CORPORAT.png)
+![CORPORAT](images/CORPORAT.png)
 
 ### DOCKER
 
 **DOCKER.JCL**
 
-[DOCKER](images/DOCKER.png)
+![DOCKER](images/DOCKER.png)
 
 ### EIGHTIES
 
 **EIGHTIES.JCL**
 
-[EIGHTIES](images/EIGHTIES.png)
+![EIGHTIES](images/EIGHTIES.png)
 
 ### ENTROPY
 
 **ENTROPY.JCL**
 
-[ENTROPY](images/ENTROPY.png)
+![ENTROPY](images/ENTROPY.png)
 
 ### FEDERAL
 
 **FEDERAL.JCL**
 
-[FEDERAL](images/FEDERAL.png)
+![FEDERAL](images/FEDERAL.png)
 
 ### GODZILLA
 
 **GODZILLA.JCL**
 
-[GODZILLA](images/GODZILLA.png)
+![GODZILLA](images/GODZILLA.png)
 
 ### MFRAME
 
 **MFRAME.JCL**
 
-[MFRAME](images/MFRAME.png)
+![MFRAME](images/MFRAME.png)
 
 ### MOSELEY
 
 **MOSELEY.JCL**
 
-[MOSELEY](images/MOSELEY.png)
+![MOSELEY](images/MOSELEY.png)
 
 ### SKULL
 
 **SKULL.JCL**
 
-[SKULL](images/SKULL.png)
+![SKULL](images/SKULL.png)
 
 ### TOMMY
 
 **TOMMY.JCL**
 
-[TOMMY](images/TOMMY.png)
+![TOMMY](images/TOMMY.png)
 
 ### WELCOME
 
 **WELCOME.JCL**
 
-[WELCOME](images/WELCOME.png)
+![WELCOME](images/WELCOME.png)
